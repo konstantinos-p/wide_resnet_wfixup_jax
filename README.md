@@ -1,6 +1,6 @@
 <h2 align="center">WideResNets with Fixup initialization in jax/flax.</h2>
 
-An implementation of WideResNets with Fixup initialization in Jax/Flax. This can be useful for usecases where Batch Normalization should be avoided (for example when using the Laplace approximation to the Bayesian posterior). 
+An implementation of WideResNets with Fixup initialization in Jax/Flax. This can be useful for use cases where Batch Normalization should be avoided (for example when using the Laplace approximation to the Bayesian posterior). 
 
 <h2> :envelope: Contact Information </h2>
 You can contact me at any of my social network profiles:
