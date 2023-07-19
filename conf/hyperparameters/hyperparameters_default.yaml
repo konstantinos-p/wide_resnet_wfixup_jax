@@ -1,0 +1,7 @@
+prngkeyseed: 0
+learning_rate: 0.001
+momentum: 0.9
+epochs: 10
+batch_size: 32
+model: '_FixupWideResNet10'
+dataset_dir: 'default'
